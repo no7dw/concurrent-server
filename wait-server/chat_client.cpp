@@ -33,3 +33,4 @@ void chat_client(const char* linkin_ip)
     p_write_to_p(clientfd, "hello, this is client");
 
     p_read_from_p(clientfd);
+}

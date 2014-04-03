@@ -37,3 +37,4 @@ void chat_client(const char* linkin_ip)
     if( ir == 0)
 
         printf(" connection close by server\n");
+}
